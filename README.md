@@ -10,6 +10,8 @@
 
 #### Link to my portfolio page
 [portfolio page](https://pihub789.github.io/portfolio)
+<a href="https://pihub789.github.io/portfolio" target="_blank">Portfolio</a>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 
