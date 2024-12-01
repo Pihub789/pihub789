@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 ### My current Projects:
--Survey Form
--Tribute Page
--Technical Documentation Page
--Product Page
--Portfolio Page
+~Survey Form
+~Tribute Page
+~Technical Documentation Page
+~Product Page
+~Portfolio Page
 
 
 #### Link to my portfolio page
